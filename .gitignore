@@ -1,0 +1,25 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+venv/
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.pytype/
+
+# Tools
+.spec-workflow/
+.claude/
